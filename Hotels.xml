@@ -5,7 +5,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>11 E. 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
@@ -17,7 +17,7 @@
   <Hotel>
     <Name>Marriott Downtown</Name>
     <Phone>602-555-1234</Phone>
-    <Address NearestAirport="Phoenix Airport">
+    <Address NearstAirport="Phoenix Airport">
       <Street>100 N 1st Ave</Street>
       <City>Phoenix</City>
       <State>AZ</State>
@@ -28,7 +28,7 @@
     <Hotel>
     <Name>Hilton Garden Inn Surprise Phoenix</Name>
     <Phone>623-404-2300</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>16601 N Stadium Way</Street>
       <City>Surprise</City>
       <State>AZ</State>
@@ -39,7 +39,7 @@
     <Hotel>
     <Name>Premier Inns Tolleson</Name>
     <Phone>623-533-4660</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>8399 W Lynwood St</Street>
       <City>Tolleson</City>
       <State>AZ</State>
@@ -50,7 +50,7 @@
     <Hotel>
     <Name>Holiday Inn Express Peoria North</Name>
     <Phone>623-853-1313</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>16771 N 84th Ave</Street>
       <City>Peoria</City>
       <State>AZ</State>
@@ -61,7 +61,7 @@
     <Hotel>
     <Name>Hilton Garden Inn Phoenix/Avondale</Name>
     <Phone>623-882-3351</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>11460 W Hilton Wy</Street>
       <City>Avondale</City>
       <State>AZ</State>
@@ -72,7 +72,7 @@
     <Hotel>
     <Name>Holiday Inn Glendale - Stadium and Ent Dist by IHG</Name>
     <Phone>602-603-5800</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>6151 N 99th Ave</Street>
       <City>Glendale</City>
       <State>AZ</State>
@@ -83,7 +83,7 @@
     <Hotel>
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>6000 E Camelback Rd</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
@@ -94,7 +94,7 @@
     <Hotel>
     <Name>Omni Scottsdale Resort and Spa at Montelucia</Name>
     <Phone>480-627-3200</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>4969 E Lincoln Dr</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
@@ -105,7 +105,7 @@
   <Hotel>
     <Name>Hotel Valley Ho</Name>
     <Phone>480-376-2600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Street>6850 E Main St</Street>
       <City>Scottsdale</City>
       <State>AZ</State>
